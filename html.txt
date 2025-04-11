@@ -1,0 +1,2027 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <title>
+   看板 HardwareSale 文章列表 - 批踢踢實業坊
+  </title>
+  <link href="//images.ptt.cc/bbs/v2.27/bbs-common.css" rel="stylesheet" type="text/css"/>
+  <link href="//images.ptt.cc/bbs/v2.27/bbs-base.css" media="screen" rel="stylesheet" type="text/css"/>
+  <link href="//images.ptt.cc/bbs/v2.27/bbs-custom.css" rel="stylesheet" type="text/css"/>
+  <link href="//images.ptt.cc/bbs/v2.27/pushstream.css" media="screen" rel="stylesheet" type="text/css"/>
+  <link href="//images.ptt.cc/bbs/v2.27/bbs-print.css" media="print" rel="stylesheet" type="text/css"/>
+ </head>
+ <body>
+  <div id="topbar-container">
+   <div class="bbs-content" id="topbar">
+    <a href="/bbs/" id="logo">
+     批踢踢實業坊
+    </a>
+    <span>
+     ›
+    </span>
+    <a class="board" href="/bbs/HardwareSale/index.html">
+     <span class="board-label">
+      看板
+     </span>
+     HardwareSale
+    </a>
+    <a class="right small" href="/about.html">
+     關於我們
+    </a>
+    <a class="right small" href="/contact.html">
+     聯絡資訊
+    </a>
+   </div>
+  </div>
+  <div id="main-container">
+   <div id="action-bar-container">
+    <div class="action-bar">
+     <div class="btn-group btn-group-dir">
+      <a class="btn selected" href="/bbs/HardwareSale/index.html">
+       看板
+      </a>
+      <a class="btn" href="/man/HardwareSale/index.html">
+       精華區
+      </a>
+     </div>
+     <div class="btn-group btn-group-paging">
+      <a class="btn wide" href="/bbs/HardwareSale/index1.html">
+       最舊
+      </a>
+      <a class="btn wide" href="/bbs/HardwareSale/index4010.html">
+       ‹ 上頁
+      </a>
+      <a class="btn wide disabled">
+       下頁 ›
+      </a>
+      <a class="btn wide" href="/bbs/HardwareSale/index.html">
+       最新
+      </a>
+     </div>
+    </div>
+   </div>
+   <div class="r-list-container action-bar-margin bbs-screen">
+    <div class="search-bar">
+     <form action="search" id="search-bar" type="get">
+      <input class="query" name="q" placeholder="搜尋文章⋯" type="text" value=""/>
+     </form>
+    </div>
+    <div class="r-ent">
+     <div class="nrec">
+     </div>
+     <div class="title">
+      <a href="/bbs/HardwareSale/M.1744376997.A.3D9.html">
+       [賣/台北/皆可] T-FORCE XTREEM ARGB (WT) DDR5 32GB
+      </a>
+     </div>
+     <div class="meta">
+      <div class="author">
+       milaf
+      </div>
+      <div class="article-menu">
+       <div class="trigger">
+        ⋯
+       </div>
+       <div class="dropdown">
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=thread%3A%5B%E8%B3%A3%2F%E5%8F%B0%E5%8C%97%2F%E7%9A%86%E5%8F%AF%5D+T-FORCE+XTREEM+ARGB+%28WT%29+DDR5+32GB">
+          搜尋同標題文章
+         </a>
+        </div>
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=author%3Amilaf">
+          搜尋看板內 milaf 的文章
+         </a>
+        </div>
+       </div>
+      </div>
+      <div class="date">
+       4/11
+      </div>
+      <div class="mark">
+      </div>
+     </div>
+    </div>
+    <div class="r-ent">
+     <div class="nrec">
+     </div>
+     <div class="title">
+      <a href="/bbs/HardwareSale/M.1744377791.A.C5E.html">
+       [賣/高雄/皆可] 威剛DDR4 3200 8G*2
+      </a>
+     </div>
+     <div class="meta">
+      <div class="author">
+       kara2825
+      </div>
+      <div class="article-menu">
+       <div class="trigger">
+        ⋯
+       </div>
+       <div class="dropdown">
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=thread%3A%5B%E8%B3%A3%2F%E9%AB%98%E9%9B%84%2F%E7%9A%86%E5%8F%AF%5D+%E5%A8%81%E5%89%9BDDR4+3200+8G%2A2">
+          搜尋同標題文章
+         </a>
+        </div>
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=author%3Akara2825">
+          搜尋看板內 kara2825 的文章
+         </a>
+        </div>
+       </div>
+      </div>
+      <div class="date">
+       4/11
+      </div>
+      <div class="mark">
+      </div>
+     </div>
+    </div>
+    <div class="r-ent">
+     <div class="nrec">
+      <span class="hl f2">
+       1
+      </span>
+     </div>
+     <div class="title">
+      <a href="/bbs/HardwareSale/M.1744379128.A.D27.html">
+       [賣/台中/皆可] 低時數 SSD WD SN5000S M.2 GEN4
+      </a>
+     </div>
+     <div class="meta">
+      <div class="author">
+       police520
+      </div>
+      <div class="article-menu">
+       <div class="trigger">
+        ⋯
+       </div>
+       <div class="dropdown">
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=thread%3A%5B%E8%B3%A3%2F%E5%8F%B0%E4%B8%AD%2F%E7%9A%86%E5%8F%AF%5D+%E4%BD%8E%E6%99%82%E6%95%B8+SSD+WD+SN5000S+M.2+GEN4">
+          搜尋同標題文章
+         </a>
+        </div>
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=author%3Apolice520">
+          搜尋看板內 police520 的文章
+         </a>
+        </div>
+       </div>
+      </div>
+      <div class="date">
+       4/11
+      </div>
+      <div class="mark">
+      </div>
+     </div>
+    </div>
+    <div class="r-ent">
+     <div class="nrec">
+     </div>
+     <div class="title">
+      <a href="/bbs/HardwareSale/M.1744379857.A.938.html">
+       [賣/新竹/皆可] 32吋 螢幕 VA329HE
+      </a>
+     </div>
+     <div class="meta">
+      <div class="author">
+       mos3344
+      </div>
+      <div class="article-menu">
+       <div class="trigger">
+        ⋯
+       </div>
+       <div class="dropdown">
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=thread%3A%5B%E8%B3%A3%2F%E6%96%B0%E7%AB%B9%2F%E7%9A%86%E5%8F%AF%5D+32%E5%90%8B+%E8%9E%A2%E5%B9%95+VA329HE">
+          搜尋同標題文章
+         </a>
+        </div>
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=author%3Amos3344">
+          搜尋看板內 mos3344 的文章
+         </a>
+        </div>
+       </div>
+      </div>
+      <div class="date">
+       4/11
+      </div>
+      <div class="mark">
+      </div>
+     </div>
+    </div>
+    <div class="r-list-sep">
+    </div>
+    <div class="r-ent">
+     <div class="nrec">
+      <span class="hl f2">
+       2
+      </span>
+     </div>
+     <div class="title">
+      <a href="/bbs/HardwareSale/M.1740761057.A.EDC.html">
+       [公告] 二手板板規 (2025/03/01) / 處分公告
+      </a>
+     </div>
+     <div class="meta">
+      <div class="author">
+       ha47
+      </div>
+      <div class="article-menu">
+       <div class="trigger">
+        ⋯
+       </div>
+       <div class="dropdown">
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=thread%3A%5B%E5%85%AC%E5%91%8A%5D+%E4%BA%8C%E6%89%8B%E6%9D%BF%E6%9D%BF%E8%A6%8F+%282025%2F03%2F01%29+%2F+%E8%99%95%E5%88%86%E5%85%AC%E5%91%8A">
+          搜尋同標題文章
+         </a>
+        </div>
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=author%3Aha47">
+          搜尋看板內 ha47 的文章
+         </a>
+        </div>
+       </div>
+      </div>
+      <div class="date">
+       3/01
+      </div>
+      <div class="mark">
+       M
+      </div>
+     </div>
+    </div>
+    <div class="r-ent">
+     <div class="nrec">
+      <span class="hl f3">
+       21
+      </span>
+     </div>
+     <div class="title">
+      <a href="/bbs/HardwareSale/M.1740761145.A.6F4.html">
+       [公告] 置底檢舉/自首區 (2025/03/01)
+      </a>
+     </div>
+     <div class="meta">
+      <div class="author">
+       ha47
+      </div>
+      <div class="article-menu">
+       <div class="trigger">
+        ⋯
+       </div>
+       <div class="dropdown">
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=thread%3A%5B%E5%85%AC%E5%91%8A%5D+%E7%BD%AE%E5%BA%95%E6%AA%A2%E8%88%89%2F%E8%87%AA%E9%A6%96%E5%8D%80+%282025%2F03%2F01%29">
+          搜尋同標題文章
+         </a>
+        </div>
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=author%3Aha47">
+          搜尋看板內 ha47 的文章
+         </a>
+        </div>
+       </div>
+      </div>
+      <div class="date">
+       3/01
+      </div>
+      <div class="mark">
+       M
+      </div>
+     </div>
+    </div>
+    <div class="r-ent">
+     <div class="nrec">
+      <span class="hl f2">
+       8
+      </span>
+     </div>
+     <div class="title">
+      <a href="/bbs/HardwareSale/M.1727620981.A.CB0.html">
+       [公告] 置底板務諮詢 v4
+      </a>
+     </div>
+     <div class="meta">
+      <div class="author">
+       dickyjay
+      </div>
+      <div class="article-menu">
+       <div class="trigger">
+        ⋯
+       </div>
+       <div class="dropdown">
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=thread%3A%5B%E5%85%AC%E5%91%8A%5D+%E7%BD%AE%E5%BA%95%E6%9D%BF%E5%8B%99%E8%AB%AE%E8%A9%A2+v4">
+          搜尋同標題文章
+         </a>
+        </div>
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=author%3Adickyjay">
+          搜尋看板內 dickyjay 的文章
+         </a>
+        </div>
+       </div>
+      </div>
+      <div class="date">
+       9/29
+      </div>
+      <div class="mark">
+       M
+      </div>
+     </div>
+    </div>
+    <div class="r-ent">
+     <div class="nrec">
+      <span class="hl f3">
+       47
+      </span>
+     </div>
+     <div class="title">
+      <a href="/bbs/HardwareSale/M.1729587840.A.8BF.html">
+       [公告] 請留意站內信引導加LINE詐騙
+      </a>
+     </div>
+     <div class="meta">
+      <div class="author">
+       ha47
+      </div>
+      <div class="article-menu">
+       <div class="trigger">
+        ⋯
+       </div>
+       <div class="dropdown">
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=thread%3A%5B%E5%85%AC%E5%91%8A%5D+%E8%AB%8B%E7%95%99%E6%84%8F%E7%AB%99%E5%85%A7%E4%BF%A1%E5%BC%95%E5%B0%8E%E5%8A%A0LINE%E8%A9%90%E9%A8%99">
+          搜尋同標題文章
+         </a>
+        </div>
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=author%3Aha47">
+          搜尋看板內 ha47 的文章
+         </a>
+        </div>
+       </div>
+      </div>
+      <div class="date">
+       10/22
+      </div>
+      <div class="mark">
+       M
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-DZ6Y3BY9GW">
+  </script>
+  <script>
+   window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-DZ6Y3BY9GW');
+  </script>
+  <script>
+   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+  </script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js">
+  </script>
+  <script src="//images.ptt.cc/bbs/v2.27/bbs.js">
+  </script>
+ </body>
+</html>
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <title>
+   看板 HardwareSale 文章列表 - 批踢踢實業坊
+  </title>
+  <link href="//images.ptt.cc/bbs/v2.27/bbs-common.css" rel="stylesheet" type="text/css"/>
+  <link href="//images.ptt.cc/bbs/v2.27/bbs-base.css" media="screen" rel="stylesheet" type="text/css"/>
+  <link href="//images.ptt.cc/bbs/v2.27/bbs-custom.css" rel="stylesheet" type="text/css"/>
+  <link href="//images.ptt.cc/bbs/v2.27/pushstream.css" media="screen" rel="stylesheet" type="text/css"/>
+  <link href="//images.ptt.cc/bbs/v2.27/bbs-print.css" media="print" rel="stylesheet" type="text/css"/>
+ </head>
+ <body>
+  <div id="topbar-container">
+   <div class="bbs-content" id="topbar">
+    <a href="/bbs/" id="logo">
+     批踢踢實業坊
+    </a>
+    <span>
+     ›
+    </span>
+    <a class="board" href="/bbs/HardwareSale/index.html">
+     <span class="board-label">
+      看板
+     </span>
+     HardwareSale
+    </a>
+    <a class="right small" href="/about.html">
+     關於我們
+    </a>
+    <a class="right small" href="/contact.html">
+     聯絡資訊
+    </a>
+   </div>
+  </div>
+  <div id="main-container">
+   <div id="action-bar-container">
+    <div class="action-bar">
+     <div class="btn-group btn-group-dir">
+      <a class="btn selected" href="/bbs/HardwareSale/index.html">
+       看板
+      </a>
+      <a class="btn" href="/man/HardwareSale/index.html">
+       精華區
+      </a>
+     </div>
+     <div class="btn-group btn-group-paging">
+      <a class="btn wide" href="/bbs/HardwareSale/index1.html">
+       最舊
+      </a>
+      <a class="btn wide" href="/bbs/HardwareSale/index4009.html">
+       ‹ 上頁
+      </a>
+      <a class="btn wide" href="/bbs/HardwareSale/index4011.html">
+       下頁 ›
+      </a>
+      <a class="btn wide" href="/bbs/HardwareSale/index.html">
+       最新
+      </a>
+     </div>
+    </div>
+   </div>
+   <div class="r-list-container action-bar-margin bbs-screen">
+    <div class="search-bar">
+     <form action="search" id="search-bar" type="get">
+      <input class="query" name="q" placeholder="搜尋文章⋯" type="text" value=""/>
+     </form>
+    </div>
+    <div class="r-ent">
+     <div class="nrec">
+     </div>
+     <div class="title">
+      (已被ha47刪除) &lt;zhizhong3221&gt; 1-2
+     </div>
+     <div class="meta">
+      <div class="author">
+       -
+      </div>
+      <div class="article-menu">
+      </div>
+      <div class="date">
+       4/11
+      </div>
+      <div class="mark">
+      </div>
+     </div>
+    </div>
+    <div class="r-ent">
+     <div class="nrec">
+     </div>
+     <div class="title">
+      <a href="/bbs/HardwareSale/M.1744346368.A.308.html">
+       [賣/中和/自取] NUC11TNK i7/ VA2715MH 兩台
+      </a>
+     </div>
+     <div class="meta">
+      <div class="author">
+       ray155002
+      </div>
+      <div class="article-menu">
+       <div class="trigger">
+        ⋯
+       </div>
+       <div class="dropdown">
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=thread%3A%5B%E8%B3%A3%2F%E4%B8%AD%E5%92%8C%2F%E8%87%AA%E5%8F%96%5D+NUC11TNK+i7%2F+VA2715MH+%E5%85%A9%E5%8F%B0">
+          搜尋同標題文章
+         </a>
+        </div>
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=author%3Aray155002">
+          搜尋看板內 ray155002 的文章
+         </a>
+        </div>
+       </div>
+      </div>
+      <div class="date">
+       4/11
+      </div>
+      <div class="mark">
+      </div>
+     </div>
+    </div>
+    <div class="r-ent">
+     <div class="nrec">
+     </div>
+     <div class="title">
+      <a href="/bbs/HardwareSale/M.1744347729.A.8D2.html">
+       [賣/台北/皆可]ddr5 ecc udimm 4800mhz 32GB*2
+      </a>
+     </div>
+     <div class="meta">
+      <div class="author">
+       freezeyp
+      </div>
+      <div class="article-menu">
+       <div class="trigger">
+        ⋯
+       </div>
+       <div class="dropdown">
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=thread%3A%5B%E8%B3%A3%2F%E5%8F%B0%E5%8C%97%2F%E7%9A%86%E5%8F%AF%5Dddr5+ecc+udimm+4800mhz+32GB%2A2">
+          搜尋同標題文章
+         </a>
+        </div>
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=author%3Afreezeyp">
+          搜尋看板內 freezeyp 的文章
+         </a>
+        </div>
+       </div>
+      </div>
+      <div class="date">
+       4/11
+      </div>
+      <div class="mark">
+      </div>
+     </div>
+    </div>
+    <div class="r-ent">
+     <div class="nrec">
+     </div>
+     <div class="title">
+      <a href="/bbs/HardwareSale/M.1744347881.A.14F.html">
+       [徵/新北/皆可] Fractal Design North XL 黑
+      </a>
+     </div>
+     <div class="meta">
+      <div class="author">
+       baby870914
+      </div>
+      <div class="article-menu">
+       <div class="trigger">
+        ⋯
+       </div>
+       <div class="dropdown">
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=thread%3A%5B%E5%BE%B5%2F%E6%96%B0%E5%8C%97%2F%E7%9A%86%E5%8F%AF%5D+Fractal+Design+North+XL+%E9%BB%91+">
+          搜尋同標題文章
+         </a>
+        </div>
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=author%3Ababy870914">
+          搜尋看板內 baby870914 的文章
+         </a>
+        </div>
+       </div>
+      </div>
+      <div class="date">
+       4/11
+      </div>
+      <div class="mark">
+      </div>
+     </div>
+    </div>
+    <div class="r-ent">
+     <div class="nrec">
+      <span class="hl f2">
+       4
+      </span>
+     </div>
+     <div class="title">
+      (已被ha47刪除) &lt;sail2&gt; 3-10-1
+     </div>
+     <div class="meta">
+      <div class="author">
+       -
+      </div>
+      <div class="article-menu">
+      </div>
+      <div class="date">
+       4/11
+      </div>
+      <div class="mark">
+      </div>
+     </div>
+    </div>
+    <div class="r-ent">
+     <div class="nrec">
+     </div>
+     <div class="title">
+      <a href="/bbs/HardwareSale/M.1744356781.A.50D.html">
+       [賣/台中/皆可] Xiaomi 電視盒子S (2代)
+      </a>
+     </div>
+     <div class="meta">
+      <div class="author">
+       mc112043
+      </div>
+      <div class="article-menu">
+       <div class="trigger">
+        ⋯
+       </div>
+       <div class="dropdown">
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=thread%3A%5B%E8%B3%A3%2F%E5%8F%B0%E4%B8%AD%2F%E7%9A%86%E5%8F%AF%5D+Xiaomi+%E9%9B%BB%E8%A6%96%E7%9B%92%E5%AD%90S+%282%E4%BB%A3%29">
+          搜尋同標題文章
+         </a>
+        </div>
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=author%3Amc112043">
+          搜尋看板內 mc112043 的文章
+         </a>
+        </div>
+       </div>
+      </div>
+      <div class="date">
+       4/11
+      </div>
+      <div class="mark">
+      </div>
+     </div>
+    </div>
+    <div class="r-ent">
+     <div class="nrec">
+      <span class="hl f2">
+       1
+      </span>
+     </div>
+     <div class="title">
+      <a href="/bbs/HardwareSale/M.1744357799.A.072.html">
+       [賣/台北/面交] 整機EVGA3070 12代i皇
+      </a>
+     </div>
+     <div class="meta">
+      <div class="author">
+       star919xx
+      </div>
+      <div class="article-menu">
+       <div class="trigger">
+        ⋯
+       </div>
+       <div class="dropdown">
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=thread%3A%5B%E8%B3%A3%2F%E5%8F%B0%E5%8C%97%2F%E9%9D%A2%E4%BA%A4%5D+%E6%95%B4%E6%A9%9FEVGA3070+12%E4%BB%A3i%E7%9A%87">
+          搜尋同標題文章
+         </a>
+        </div>
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=author%3Astar919xx">
+          搜尋看板內 star919xx 的文章
+         </a>
+        </div>
+       </div>
+      </div>
+      <div class="date">
+       4/11
+      </div>
+      <div class="mark">
+      </div>
+     </div>
+    </div>
+    <div class="r-ent">
+     <div class="nrec">
+     </div>
+     <div class="title">
+      <a href="/bbs/HardwareSale/M.1744358201.A.644.html">
+       [賣/台北/面交] 3900x+b550e+32G半套/Nzxt H510e
+      </a>
+     </div>
+     <div class="meta">
+      <div class="author">
+       jigsawye
+      </div>
+      <div class="article-menu">
+       <div class="trigger">
+        ⋯
+       </div>
+       <div class="dropdown">
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=thread%3A%5B%E8%B3%A3%2F%E5%8F%B0%E5%8C%97%2F%E9%9D%A2%E4%BA%A4%5D+3900x%2Bb550e%2B32G%E5%8D%8A%E5%A5%97%2FNzxt+H510e">
+          搜尋同標題文章
+         </a>
+        </div>
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=author%3Ajigsawye">
+          搜尋看板內 jigsawye 的文章
+         </a>
+        </div>
+       </div>
+      </div>
+      <div class="date">
+       4/11
+      </div>
+      <div class="mark">
+      </div>
+     </div>
+    </div>
+    <div class="r-ent">
+     <div class="nrec">
+      <span class="hl f2">
+       6
+      </span>
+     </div>
+     <div class="title">
+      <a href="/bbs/HardwareSale/M.1744358495.A.FC3.html">
+       [賣/全國/皆可] 5950x+3090幾乎全套 (已售出)
+      </a>
+     </div>
+     <div class="meta">
+      <div class="author">
+       ckping
+      </div>
+      <div class="article-menu">
+       <div class="trigger">
+        ⋯
+       </div>
+       <div class="dropdown">
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=thread%3A%5B%E8%B3%A3%2F%E5%85%A8%E5%9C%8B%2F%E7%9A%86%E5%8F%AF%5D+5950x%2B3090%E5%B9%BE%E4%B9%8E%E5%85%A8%E5%A5%97+%28%E5%B7%B2%E5%94%AE%E5%87%BA%29">
+          搜尋同標題文章
+         </a>
+        </div>
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=author%3Ackping">
+          搜尋看板內 ckping 的文章
+         </a>
+        </div>
+       </div>
+      </div>
+      <div class="date">
+       4/11
+      </div>
+      <div class="mark">
+      </div>
+     </div>
+    </div>
+    <div class="r-ent">
+     <div class="nrec">
+      <span class="hl f2">
+       1
+      </span>
+     </div>
+     <div class="title">
+      <a href="/bbs/HardwareSale/M.1744361336.A.DDA.html">
+       [賣/關渡/皆可] Nvidia Quadro P620 繪圖卡 i7-7700 cpu多種
+      </a>
+     </div>
+     <div class="meta">
+      <div class="author">
+       ssiixx
+      </div>
+      <div class="article-menu">
+       <div class="trigger">
+        ⋯
+       </div>
+       <div class="dropdown">
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=thread%3A%5B%E8%B3%A3%2F%E9%97%9C%E6%B8%A1%2F%E7%9A%86%E5%8F%AF%5D+Nvidia+Quadro+P620+%E7%B9%AA%E5%9C%96%E5%8D%A1+i7-7700+cpu%E5%A4%9A%E7%A8%AE">
+          搜尋同標題文章
+         </a>
+        </div>
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=author%3Assiixx">
+          搜尋看板內 ssiixx 的文章
+         </a>
+        </div>
+       </div>
+      </div>
+      <div class="date">
+       4/11
+      </div>
+      <div class="mark">
+       S
+      </div>
+     </div>
+    </div>
+    <div class="r-ent">
+     <div class="nrec">
+      <span class="hl f2">
+       1
+      </span>
+     </div>
+     <div class="title">
+      <a href="/bbs/HardwareSale/M.1744363077.A.C4F.html">
+       [賣/雙北/皆可]華碩ROG RTX4080 16GB裸版便宜賣
+      </a>
+     </div>
+     <div class="meta">
+      <div class="author">
+       oddballodd
+      </div>
+      <div class="article-menu">
+       <div class="trigger">
+        ⋯
+       </div>
+       <div class="dropdown">
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=thread%3A%5B%E8%B3%A3%2F%E9%9B%99%E5%8C%97%2F%E7%9A%86%E5%8F%AF%5D%E8%8F%AF%E7%A2%A9ROG+RTX4080+16GB%E8%A3%B8%E7%89%88%E4%BE%BF%E5%AE%9C%E8%B3%A3">
+          搜尋同標題文章
+         </a>
+        </div>
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=author%3Aoddballodd">
+          搜尋看板內 oddballodd 的文章
+         </a>
+        </div>
+       </div>
+      </div>
+      <div class="date">
+       4/11
+      </div>
+      <div class="mark">
+       S
+      </div>
+     </div>
+    </div>
+    <div class="r-ent">
+     <div class="nrec">
+     </div>
+     <div class="title">
+      <a href="/bbs/HardwareSale/M.1744364943.A.E7E.html">
+       [賣/台北/皆可] i5-3470和Asus B75M-plus
+      </a>
+     </div>
+     <div class="meta">
+      <div class="author">
+       tibet1973
+      </div>
+      <div class="article-menu">
+       <div class="trigger">
+        ⋯
+       </div>
+       <div class="dropdown">
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=thread%3A%5B%E8%B3%A3%2F%E5%8F%B0%E5%8C%97%2F%E7%9A%86%E5%8F%AF%5D+i5-3470%E5%92%8CAsus+B75M-plus">
+          搜尋同標題文章
+         </a>
+        </div>
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=author%3Atibet1973">
+          搜尋看板內 tibet1973 的文章
+         </a>
+        </div>
+       </div>
+      </div>
+      <div class="date">
+       4/11
+      </div>
+      <div class="mark">
+      </div>
+     </div>
+    </div>
+    <div class="r-ent">
+     <div class="nrec">
+     </div>
+     <div class="title">
+      <a href="/bbs/HardwareSale/M.1744365000.A.C2C.html">
+       [賣/全國/寄送] Leopold FC750RBT 紅軸 藍牙雙
+      </a>
+     </div>
+     <div class="meta">
+      <div class="author">
+       daishaowei
+      </div>
+      <div class="article-menu">
+       <div class="trigger">
+        ⋯
+       </div>
+       <div class="dropdown">
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=thread%3A%5B%E8%B3%A3%2F%E5%85%A8%E5%9C%8B%2F%E5%AF%84%E9%80%81%5D+Leopold+FC750RBT+%E7%B4%85%E8%BB%B8+%E8%97%8D%E7%89%99%E9%9B%99">
+          搜尋同標題文章
+         </a>
+        </div>
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=author%3Adaishaowei">
+          搜尋看板內 daishaowei 的文章
+         </a>
+        </div>
+       </div>
+      </div>
+      <div class="date">
+       4/11
+      </div>
+      <div class="mark">
+      </div>
+     </div>
+    </div>
+    <div class="r-ent">
+     <div class="nrec">
+     </div>
+     <div class="title">
+      <a href="/bbs/HardwareSale/M.1744366318.A.050.html">
+       [賣/台北/面交]i5 9400F+B360+DDR4 16G半套
+      </a>
+     </div>
+     <div class="meta">
+      <div class="author">
+       wos4869
+      </div>
+      <div class="article-menu">
+       <div class="trigger">
+        ⋯
+       </div>
+       <div class="dropdown">
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=thread%3A%5B%E8%B3%A3%2F%E5%8F%B0%E5%8C%97%2F%E9%9D%A2%E4%BA%A4%5Di5+9400F%2BB360%2BDDR4+16G%E5%8D%8A%E5%A5%97+">
+          搜尋同標題文章
+         </a>
+        </div>
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=author%3Awos4869">
+          搜尋看板內 wos4869 的文章
+         </a>
+        </div>
+       </div>
+      </div>
+      <div class="date">
+       4/11
+      </div>
+      <div class="mark">
+      </div>
+     </div>
+    </div>
+    <div class="r-ent">
+     <div class="nrec">
+      <span class="hl f2">
+       2
+      </span>
+     </div>
+     <div class="title">
+      <a href="/bbs/HardwareSale/M.1744368065.A.FE1.html">
+       [賣/台中/皆可]疑似損壞套機 I5-8500 DDR4 16G
+      </a>
+     </div>
+     <div class="meta">
+      <div class="author">
+       kobegtxz
+      </div>
+      <div class="article-menu">
+       <div class="trigger">
+        ⋯
+       </div>
+       <div class="dropdown">
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=thread%3A%5B%E8%B3%A3%2F%E5%8F%B0%E4%B8%AD%2F%E7%9A%86%E5%8F%AF%5D%E7%96%91%E4%BC%BC%E6%90%8D%E5%A3%9E%E5%A5%97%E6%A9%9F+I5-8500+DDR4+16G+">
+          搜尋同標題文章
+         </a>
+        </div>
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=author%3Akobegtxz">
+          搜尋看板內 kobegtxz 的文章
+         </a>
+        </div>
+       </div>
+      </div>
+      <div class="date">
+       4/11
+      </div>
+      <div class="mark">
+      </div>
+     </div>
+    </div>
+    <div class="r-ent">
+     <div class="nrec">
+     </div>
+     <div class="title">
+      <a href="/bbs/HardwareSale/M.1744368158.A.228.html">
+       [徵/台中/面交] ROG 5090 TUF5090
+      </a>
+     </div>
+     <div class="meta">
+      <div class="author">
+       joea2003
+      </div>
+      <div class="article-menu">
+       <div class="trigger">
+        ⋯
+       </div>
+       <div class="dropdown">
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=thread%3A%5B%E5%BE%B5%2F%E5%8F%B0%E4%B8%AD%2F%E9%9D%A2%E4%BA%A4%5D+ROG+5090+TUF5090">
+          搜尋同標題文章
+         </a>
+        </div>
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=author%3Ajoea2003">
+          搜尋看板內 joea2003 的文章
+         </a>
+        </div>
+       </div>
+      </div>
+      <div class="date">
+       4/11
+      </div>
+      <div class="mark">
+      </div>
+     </div>
+    </div>
+    <div class="r-ent">
+     <div class="nrec">
+     </div>
+     <div class="title">
+      <a href="/bbs/HardwareSale/M.1744368179.A.2DA.html">
+       [徵/新竹/面交] 27吋 2K 螢幕
+      </a>
+     </div>
+     <div class="meta">
+      <div class="author">
+       GiGiLaLa
+      </div>
+      <div class="article-menu">
+       <div class="trigger">
+        ⋯
+       </div>
+       <div class="dropdown">
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=thread%3A%5B%E5%BE%B5%2F%E6%96%B0%E7%AB%B9%2F%E9%9D%A2%E4%BA%A4%5D+27%E5%90%8B+2K+%E8%9E%A2%E5%B9%95">
+          搜尋同標題文章
+         </a>
+        </div>
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=author%3AGiGiLaLa">
+          搜尋看板內 GiGiLaLa 的文章
+         </a>
+        </div>
+       </div>
+      </div>
+      <div class="date">
+       4/11
+      </div>
+      <div class="mark">
+      </div>
+     </div>
+    </div>
+    <div class="r-ent">
+     <div class="nrec">
+     </div>
+     <div class="title">
+      <a href="/bbs/HardwareSale/M.1744369820.A.092.html">
+       [賣/雙北/皆可] 金士頓 DDR4-3200 32G
+      </a>
+     </div>
+     <div class="meta">
+      <div class="author">
+       bestaa
+      </div>
+      <div class="article-menu">
+       <div class="trigger">
+        ⋯
+       </div>
+       <div class="dropdown">
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=thread%3A%5B%E8%B3%A3%2F%E9%9B%99%E5%8C%97%2F%E7%9A%86%E5%8F%AF%5D+%E9%87%91%E5%A3%AB%E9%A0%93+DDR4-3200+32G">
+          搜尋同標題文章
+         </a>
+        </div>
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=author%3Abestaa">
+          搜尋看板內 bestaa 的文章
+         </a>
+        </div>
+       </div>
+      </div>
+      <div class="date">
+       4/11
+      </div>
+      <div class="mark">
+      </div>
+     </div>
+    </div>
+    <div class="r-ent">
+     <div class="nrec">
+     </div>
+     <div class="title">
+      <a href="/bbs/HardwareSale/M.1744372768.A.DBB.html">
+       [徵/全國/皆可] ASUS TUF AX4200 WiFi路由器
+      </a>
+     </div>
+     <div class="meta">
+      <div class="author">
+       libra1014
+      </div>
+      <div class="article-menu">
+       <div class="trigger">
+        ⋯
+       </div>
+       <div class="dropdown">
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=thread%3A%5B%E5%BE%B5%2F%E5%85%A8%E5%9C%8B%2F%E7%9A%86%E5%8F%AF%5D+ASUS+TUF+AX4200+WiFi%E8%B7%AF%E7%94%B1%E5%99%A8">
+          搜尋同標題文章
+         </a>
+        </div>
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=author%3Alibra1014">
+          搜尋看板內 libra1014 的文章
+         </a>
+        </div>
+       </div>
+      </div>
+      <div class="date">
+       4/11
+      </div>
+      <div class="mark">
+      </div>
+     </div>
+    </div>
+    <div class="r-ent">
+     <div class="nrec">
+     </div>
+     <div class="title">
+      <a href="/bbs/HardwareSale/M.1744376470.A.C6F.html">
+       [賣/高雄/面交] acer CG437KS 4K 144 43吋螢幕
+      </a>
+     </div>
+     <div class="meta">
+      <div class="author">
+       Vincnet
+      </div>
+      <div class="article-menu">
+       <div class="trigger">
+        ⋯
+       </div>
+       <div class="dropdown">
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=thread%3A%5B%E8%B3%A3%2F%E9%AB%98%E9%9B%84%2F%E9%9D%A2%E4%BA%A4%5D+acer+CG437KS+4K+144+43%E5%90%8B%E8%9E%A2%E5%B9%95">
+          搜尋同標題文章
+         </a>
+        </div>
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=author%3AVincnet">
+          搜尋看板內 Vincnet 的文章
+         </a>
+        </div>
+       </div>
+      </div>
+      <div class="date">
+       4/11
+      </div>
+      <div class="mark">
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-DZ6Y3BY9GW">
+  </script>
+  <script>
+   window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-DZ6Y3BY9GW');
+  </script>
+  <script>
+   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+  </script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js">
+  </script>
+  <script src="//images.ptt.cc/bbs/v2.27/bbs.js">
+  </script>
+ </body>
+</html>
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <title>
+   看板 HardwareSale 文章列表 - 批踢踢實業坊
+  </title>
+  <link href="//images.ptt.cc/bbs/v2.27/bbs-common.css" rel="stylesheet" type="text/css"/>
+  <link href="//images.ptt.cc/bbs/v2.27/bbs-base.css" media="screen" rel="stylesheet" type="text/css"/>
+  <link href="//images.ptt.cc/bbs/v2.27/bbs-custom.css" rel="stylesheet" type="text/css"/>
+  <link href="//images.ptt.cc/bbs/v2.27/pushstream.css" media="screen" rel="stylesheet" type="text/css"/>
+  <link href="//images.ptt.cc/bbs/v2.27/bbs-print.css" media="print" rel="stylesheet" type="text/css"/>
+ </head>
+ <body>
+  <div id="topbar-container">
+   <div class="bbs-content" id="topbar">
+    <a href="/bbs/" id="logo">
+     批踢踢實業坊
+    </a>
+    <span>
+     ›
+    </span>
+    <a class="board" href="/bbs/HardwareSale/index.html">
+     <span class="board-label">
+      看板
+     </span>
+     HardwareSale
+    </a>
+    <a class="right small" href="/about.html">
+     關於我們
+    </a>
+    <a class="right small" href="/contact.html">
+     聯絡資訊
+    </a>
+   </div>
+  </div>
+  <div id="main-container">
+   <div id="action-bar-container">
+    <div class="action-bar">
+     <div class="btn-group btn-group-dir">
+      <a class="btn selected" href="/bbs/HardwareSale/index.html">
+       看板
+      </a>
+      <a class="btn" href="/man/HardwareSale/index.html">
+       精華區
+      </a>
+     </div>
+     <div class="btn-group btn-group-paging">
+      <a class="btn wide" href="/bbs/HardwareSale/index1.html">
+       最舊
+      </a>
+      <a class="btn wide" href="/bbs/HardwareSale/index4008.html">
+       ‹ 上頁
+      </a>
+      <a class="btn wide" href="/bbs/HardwareSale/index4010.html">
+       下頁 ›
+      </a>
+      <a class="btn wide" href="/bbs/HardwareSale/index.html">
+       最新
+      </a>
+     </div>
+    </div>
+   </div>
+   <div class="r-list-container action-bar-margin bbs-screen">
+    <div class="search-bar">
+     <form action="search" id="search-bar" type="get">
+      <input class="query" name="q" placeholder="搜尋文章⋯" type="text" value=""/>
+     </form>
+    </div>
+    <div class="r-ent">
+     <div class="nrec">
+     </div>
+     <div class="title">
+      <a href="/bbs/HardwareSale/M.1744299013.A.1B6.html">
+       [賣/新竹/皆可] 雙螢幕KVM、N100 6*2.5G 主機
+      </a>
+     </div>
+     <div class="meta">
+      <div class="author">
+       Memorykiller
+      </div>
+      <div class="article-menu">
+       <div class="trigger">
+        ⋯
+       </div>
+       <div class="dropdown">
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=thread%3A%5B%E8%B3%A3%2F%E6%96%B0%E7%AB%B9%2F%E7%9A%86%E5%8F%AF%5D+%E9%9B%99%E8%9E%A2%E5%B9%95KVM%E3%80%81N100+6%2A2.5G+%E4%B8%BB%E6%A9%9F">
+          搜尋同標題文章
+         </a>
+        </div>
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=author%3AMemorykiller">
+          搜尋看板內 Memorykiller 的文章
+         </a>
+        </div>
+       </div>
+      </div>
+      <div class="date">
+       4/10
+      </div>
+      <div class="mark">
+      </div>
+     </div>
+    </div>
+    <div class="r-ent">
+     <div class="nrec">
+      <span class="hl f2">
+       3
+      </span>
+     </div>
+     <div class="title">
+      <a href="/bbs/HardwareSale/M.1744300819.A.E11.html">
+       [徵/雙北/面交] 低階 PCIe顯卡
+      </a>
+     </div>
+     <div class="meta">
+      <div class="author">
+       systim
+      </div>
+      <div class="article-menu">
+       <div class="trigger">
+        ⋯
+       </div>
+       <div class="dropdown">
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=thread%3A%5B%E5%BE%B5%2F%E9%9B%99%E5%8C%97%2F%E9%9D%A2%E4%BA%A4%5D+%E4%BD%8E%E9%9A%8E+PCIe%E9%A1%AF%E5%8D%A1">
+          搜尋同標題文章
+         </a>
+        </div>
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=author%3Asystim">
+          搜尋看板內 systim 的文章
+         </a>
+        </div>
+       </div>
+      </div>
+      <div class="date">
+       4/11
+      </div>
+      <div class="mark">
+      </div>
+     </div>
+    </div>
+    <div class="r-ent">
+     <div class="nrec">
+      <span class="hl f2">
+       3
+      </span>
+     </div>
+     <div class="title">
+      <a href="/bbs/HardwareSale/M.1744302800.A.0CC.html">
+       [賣/全國/皆可] KLEVV DDR4-3600 32GB (16GB*2)
+      </a>
+     </div>
+     <div class="meta">
+      <div class="author">
+       jerry31728
+      </div>
+      <div class="article-menu">
+       <div class="trigger">
+        ⋯
+       </div>
+       <div class="dropdown">
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=thread%3A%5B%E8%B3%A3%2F%E5%85%A8%E5%9C%8B%2F%E7%9A%86%E5%8F%AF%5D+KLEVV+DDR4-3600+32GB+%2816GB%2A2%29">
+          搜尋同標題文章
+         </a>
+        </div>
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=author%3Ajerry31728">
+          搜尋看板內 jerry31728 的文章
+         </a>
+        </div>
+       </div>
+      </div>
+      <div class="date">
+       4/11
+      </div>
+      <div class="mark">
+      </div>
+     </div>
+    </div>
+    <div class="r-ent">
+     <div class="nrec">
+     </div>
+     <div class="title">
+      <a href="/bbs/HardwareSale/M.1744303222.A.7E7.html">
+       [賣/全國/皆可] 大量筆電DDR345、網卡、M.2 SSD
+      </a>
+     </div>
+     <div class="meta">
+      <div class="author">
+       kashima228
+      </div>
+      <div class="article-menu">
+       <div class="trigger">
+        ⋯
+       </div>
+       <div class="dropdown">
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=thread%3A%5B%E8%B3%A3%2F%E5%85%A8%E5%9C%8B%2F%E7%9A%86%E5%8F%AF%5D+%E5%A4%A7%E9%87%8F%E7%AD%86%E9%9B%BBDDR345%E3%80%81%E7%B6%B2%E5%8D%A1%E3%80%81M.2+SSD">
+          搜尋同標題文章
+         </a>
+        </div>
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=author%3Akashima228">
+          搜尋看板內 kashima228 的文章
+         </a>
+        </div>
+       </div>
+      </div>
+      <div class="date">
+       4/11
+      </div>
+      <div class="mark">
+      </div>
+     </div>
+    </div>
+    <div class="r-ent">
+     <div class="nrec">
+     </div>
+     <div class="title">
+      <a href="/bbs/HardwareSale/M.1744304574.A.08A.html">
+       [估價] i5 13500+3060ti整機
+      </a>
+     </div>
+     <div class="meta">
+      <div class="author">
+       chemistry66
+      </div>
+      <div class="article-menu">
+       <div class="trigger">
+        ⋯
+       </div>
+       <div class="dropdown">
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=thread%3A%5B%E4%BC%B0%E5%83%B9%5D+i5+13500%2B3060ti%E6%95%B4%E6%A9%9F">
+          搜尋同標題文章
+         </a>
+        </div>
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=author%3Achemistry66">
+          搜尋看板內 chemistry66 的文章
+         </a>
+        </div>
+       </div>
+      </div>
+      <div class="date">
+       4/11
+      </div>
+      <div class="mark">
+      </div>
+     </div>
+    </div>
+    <div class="r-ent">
+     <div class="nrec">
+     </div>
+     <div class="title">
+      <a href="/bbs/HardwareSale/M.1744307225.A.608.html">
+       [賣/台北/皆可] 13700K/B660A-D4/D4-3200Xtreem
+      </a>
+     </div>
+     <div class="meta">
+      <div class="author">
+       shimanomomo
+      </div>
+      <div class="article-menu">
+       <div class="trigger">
+        ⋯
+       </div>
+       <div class="dropdown">
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=thread%3A%5B%E8%B3%A3%2F%E5%8F%B0%E5%8C%97%2F%E7%9A%86%E5%8F%AF%5D+13700K%2FB660A-D4%2FD4-3200Xtreem+">
+          搜尋同標題文章
+         </a>
+        </div>
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=author%3Ashimanomomo">
+          搜尋看板內 shimanomomo 的文章
+         </a>
+        </div>
+       </div>
+      </div>
+      <div class="date">
+       4/11
+      </div>
+      <div class="mark">
+      </div>
+     </div>
+    </div>
+    <div class="r-ent">
+     <div class="nrec">
+      <span class="hl f2">
+       1
+      </span>
+     </div>
+     <div class="title">
+      <a href="/bbs/HardwareSale/M.1744307745.A.15A.html">
+       [徵/台中/皆可] RTX 3090 or Ti
+      </a>
+     </div>
+     <div class="meta">
+      <div class="author">
+       NX9999
+      </div>
+      <div class="article-menu">
+       <div class="trigger">
+        ⋯
+       </div>
+       <div class="dropdown">
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=thread%3A%5B%E5%BE%B5%2F%E5%8F%B0%E4%B8%AD%2F%E7%9A%86%E5%8F%AF%5D+RTX+3090+or+Ti">
+          搜尋同標題文章
+         </a>
+        </div>
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=author%3ANX9999">
+          搜尋看板內 NX9999 的文章
+         </a>
+        </div>
+       </div>
+      </div>
+      <div class="date">
+       4/11
+      </div>
+      <div class="mark">
+      </div>
+     </div>
+    </div>
+    <div class="r-ent">
+     <div class="nrec">
+     </div>
+     <div class="title">
+      <a href="/bbs/HardwareSale/M.1744308516.A.700.html">
+       [徵/新竹/皆可] Samsung t7 shield 1tb 奶茶色
+      </a>
+     </div>
+     <div class="meta">
+      <div class="author">
+       a0975970325
+      </div>
+      <div class="article-menu">
+       <div class="trigger">
+        ⋯
+       </div>
+       <div class="dropdown">
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=thread%3A%5B%E5%BE%B5%2F%E6%96%B0%E7%AB%B9%2F%E7%9A%86%E5%8F%AF%5D+Samsung+t7+shield+1tb+%E5%A5%B6%E8%8C%B6%E8%89%B2">
+          搜尋同標題文章
+         </a>
+        </div>
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=author%3Aa0975970325">
+          搜尋看板內 a0975970325 的文章
+         </a>
+        </div>
+       </div>
+      </div>
+      <div class="date">
+       4/11
+      </div>
+      <div class="mark">
+      </div>
+     </div>
+    </div>
+    <div class="r-ent">
+     <div class="nrec">
+     </div>
+     <div class="title">
+      <a href="/bbs/HardwareSale/M.1744311584.A.BE4.html">
+       [徵/台北/皆可] r5 3600 或 r5 5600
+      </a>
+     </div>
+     <div class="meta">
+      <div class="author">
+       qqq546789
+      </div>
+      <div class="article-menu">
+       <div class="trigger">
+        ⋯
+       </div>
+       <div class="dropdown">
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=thread%3A%5B%E5%BE%B5%2F%E5%8F%B0%E5%8C%97%2F%E7%9A%86%E5%8F%AF%5D+r5+3600+%E6%88%96+r5+5600">
+          搜尋同標題文章
+         </a>
+        </div>
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=author%3Aqqq546789">
+          搜尋看板內 qqq546789 的文章
+         </a>
+        </div>
+       </div>
+      </div>
+      <div class="date">
+       4/11
+      </div>
+      <div class="mark">
+      </div>
+     </div>
+    </div>
+    <div class="r-ent">
+     <div class="nrec">
+     </div>
+     <div class="title">
+      (已被ha47刪除) &lt;johnleex&gt; 3-5
+     </div>
+     <div class="meta">
+      <div class="author">
+       -
+      </div>
+      <div class="article-menu">
+      </div>
+      <div class="date">
+       4/11
+      </div>
+      <div class="mark">
+      </div>
+     </div>
+    </div>
+    <div class="r-ent">
+     <div class="nrec">
+     </div>
+     <div class="title">
+      <a href="/bbs/HardwareSale/M.1744313528.A.814.html">
+       [賣/台北/皆可] ASUS DUAL RTX2060 O6G EVO 已有人預訂
+      </a>
+     </div>
+     <div class="meta">
+      <div class="author">
+       johnleex
+      </div>
+      <div class="article-menu">
+       <div class="trigger">
+        ⋯
+       </div>
+       <div class="dropdown">
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=thread%3A%5B%E8%B3%A3%2F%E5%8F%B0%E5%8C%97%2F%E7%9A%86%E5%8F%AF%5D+ASUS+DUAL+RTX2060+O6G+EVO+%E5%B7%B2%E6%9C%89%E4%BA%BA%E9%A0%90%E8%A8%82">
+          搜尋同標題文章
+         </a>
+        </div>
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=author%3Ajohnleex">
+          搜尋看板內 johnleex 的文章
+         </a>
+        </div>
+       </div>
+      </div>
+      <div class="date">
+       4/11
+      </div>
+      <div class="mark">
+      </div>
+     </div>
+    </div>
+    <div class="r-ent">
+     <div class="nrec">
+      <span class="hl f2">
+       4
+      </span>
+     </div>
+     <div class="title">
+      <a href="/bbs/HardwareSale/M.1744313748.A.605.html">
+       [徵/雙北/皆可] n100迷你主機
+      </a>
+     </div>
+     <div class="meta">
+      <div class="author">
+       su0427
+      </div>
+      <div class="article-menu">
+       <div class="trigger">
+        ⋯
+       </div>
+       <div class="dropdown">
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=thread%3A%5B%E5%BE%B5%2F%E9%9B%99%E5%8C%97%2F%E7%9A%86%E5%8F%AF%5D+n100%E8%BF%B7%E4%BD%A0%E4%B8%BB%E6%A9%9F+">
+          搜尋同標題文章
+         </a>
+        </div>
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=author%3Asu0427">
+          搜尋看板內 su0427 的文章
+         </a>
+        </div>
+       </div>
+      </div>
+      <div class="date">
+       4/11
+      </div>
+      <div class="mark">
+      </div>
+     </div>
+    </div>
+    <div class="r-ent">
+     <div class="nrec">
+     </div>
+     <div class="title">
+      <a href="/bbs/HardwareSale/M.1744324539.A.416.html">
+       [徵/全國/皆可] IRocks K71M
+      </a>
+     </div>
+     <div class="meta">
+      <div class="author">
+       kuso9576
+      </div>
+      <div class="article-menu">
+       <div class="trigger">
+        ⋯
+       </div>
+       <div class="dropdown">
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=thread%3A%5B%E5%BE%B5%2F%E5%85%A8%E5%9C%8B%2F%E7%9A%86%E5%8F%AF%5D+IRocks+K71M">
+          搜尋同標題文章
+         </a>
+        </div>
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=author%3Akuso9576">
+          搜尋看板內 kuso9576 的文章
+         </a>
+        </div>
+       </div>
+      </div>
+      <div class="date">
+       4/11
+      </div>
+      <div class="mark">
+      </div>
+     </div>
+    </div>
+    <div class="r-ent">
+     <div class="nrec">
+     </div>
+     <div class="title">
+      <a href="/bbs/HardwareSale/M.1744327962.A.065.html">
+       [賣/桃園/賣貨便] TUF滑鼠/磁吸扇/雜物
+      </a>
+     </div>
+     <div class="meta">
+      <div class="author">
+       davidzh
+      </div>
+      <div class="article-menu">
+       <div class="trigger">
+        ⋯
+       </div>
+       <div class="dropdown">
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=thread%3A%5B%E8%B3%A3%2F%E6%A1%83%E5%9C%92%2F%E8%B3%A3%E8%B2%A8%E4%BE%BF%5D+TUF%E6%BB%91%E9%BC%A0%2F%E7%A3%81%E5%90%B8%E6%89%87%2F%E9%9B%9C%E7%89%A9">
+          搜尋同標題文章
+         </a>
+        </div>
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=author%3Adavidzh">
+          搜尋看板內 davidzh 的文章
+         </a>
+        </div>
+       </div>
+      </div>
+      <div class="date">
+       4/11
+      </div>
+      <div class="mark">
+      </div>
+     </div>
+    </div>
+    <div class="r-ent">
+     <div class="nrec">
+     </div>
+     <div class="title">
+      <a href="/bbs/HardwareSale/M.1744331073.A.E37.html">
+       [賣/桃園/皆可] i5-14400f 一顆
+      </a>
+     </div>
+     <div class="meta">
+      <div class="author">
+       hjkhjk99
+      </div>
+      <div class="article-menu">
+       <div class="trigger">
+        ⋯
+       </div>
+       <div class="dropdown">
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=thread%3A%5B%E8%B3%A3%2F%E6%A1%83%E5%9C%92%2F%E7%9A%86%E5%8F%AF%5D+i5-14400f+%E4%B8%80%E9%A1%86">
+          搜尋同標題文章
+         </a>
+        </div>
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=author%3Ahjkhjk99">
+          搜尋看板內 hjkhjk99 的文章
+         </a>
+        </div>
+       </div>
+      </div>
+      <div class="date">
+       4/11
+      </div>
+      <div class="mark">
+      </div>
+     </div>
+    </div>
+    <div class="r-ent">
+     <div class="nrec">
+     </div>
+     <div class="title">
+      <a href="/bbs/HardwareSale/M.1744336348.A.D14.html">
+       [徵/台南/皆可] 32吋 4K OLED 螢幕
+      </a>
+     </div>
+     <div class="meta">
+      <div class="author">
+       Qiyana
+      </div>
+      <div class="article-menu">
+       <div class="trigger">
+        ⋯
+       </div>
+       <div class="dropdown">
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=thread%3A%5B%E5%BE%B5%2F%E5%8F%B0%E5%8D%97%2F%E7%9A%86%E5%8F%AF%5D+32%E5%90%8B+4K+OLED+%E8%9E%A2%E5%B9%95">
+          搜尋同標題文章
+         </a>
+        </div>
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=author%3AQiyana">
+          搜尋看板內 Qiyana 的文章
+         </a>
+        </div>
+       </div>
+      </div>
+      <div class="date">
+       4/11
+      </div>
+      <div class="mark">
+      </div>
+     </div>
+    </div>
+    <div class="r-ent">
+     <div class="nrec">
+     </div>
+     <div class="title">
+      <a href="/bbs/HardwareSale/M.1744336555.A.F84.html">
+       [徵/彰化/皆可] 徵 intel ultra 7 265k或kf
+      </a>
+     </div>
+     <div class="meta">
+      <div class="author">
+       a8856256
+      </div>
+      <div class="article-menu">
+       <div class="trigger">
+        ⋯
+       </div>
+       <div class="dropdown">
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=thread%3A%5B%E5%BE%B5%2F%E5%BD%B0%E5%8C%96%2F%E7%9A%86%E5%8F%AF%5D+%E5%BE%B5+intel+ultra+7+265k%E6%88%96kf">
+          搜尋同標題文章
+         </a>
+        </div>
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=author%3Aa8856256">
+          搜尋看板內 a8856256 的文章
+         </a>
+        </div>
+       </div>
+      </div>
+      <div class="date">
+       4/11
+      </div>
+      <div class="mark">
+      </div>
+     </div>
+    </div>
+    <div class="r-ent">
+     <div class="nrec">
+     </div>
+     <div class="title">
+      <a href="/bbs/HardwareSale/M.1744341030.A.BE7.html">
+       [賣/台中/皆可] R7-5800x跟B550M Pro-Dash
+      </a>
+     </div>
+     <div class="meta">
+      <div class="author">
+       Qmoboy
+      </div>
+      <div class="article-menu">
+       <div class="trigger">
+        ⋯
+       </div>
+       <div class="dropdown">
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=thread%3A%5B%E8%B3%A3%2F%E5%8F%B0%E4%B8%AD%2F%E7%9A%86%E5%8F%AF%5D+R7-5800x%E8%B7%9FB550M+Pro-Dash">
+          搜尋同標題文章
+         </a>
+        </div>
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=author%3AQmoboy">
+          搜尋看板內 Qmoboy 的文章
+         </a>
+        </div>
+       </div>
+      </div>
+      <div class="date">
+       4/11
+      </div>
+      <div class="mark">
+      </div>
+     </div>
+    </div>
+    <div class="r-ent">
+     <div class="nrec">
+     </div>
+     <div class="title">
+      <a href="/bbs/HardwareSale/M.1744341333.A.630.html">
+       [賣/高雄/面交] 12100F主機
+      </a>
+     </div>
+     <div class="meta">
+      <div class="author">
+       vincewe
+      </div>
+      <div class="article-menu">
+       <div class="trigger">
+        ⋯
+       </div>
+       <div class="dropdown">
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=thread%3A%5B%E8%B3%A3%2F%E9%AB%98%E9%9B%84%2F%E9%9D%A2%E4%BA%A4%5D+12100F%E4%B8%BB%E6%A9%9F">
+          搜尋同標題文章
+         </a>
+        </div>
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=author%3Avincewe">
+          搜尋看板內 vincewe 的文章
+         </a>
+        </div>
+       </div>
+      </div>
+      <div class="date">
+       4/11
+      </div>
+      <div class="mark">
+      </div>
+     </div>
+    </div>
+    <div class="r-ent">
+     <div class="nrec">
+     </div>
+     <div class="title">
+      <a href="/bbs/HardwareSale/M.1744344209.A.072.html">
+       [賣/新北/皆可] B650e-i 幻鋒戟16G*2 itx機殼
+      </a>
+     </div>
+     <div class="meta">
+      <div class="author">
+       exdxboy
+      </div>
+      <div class="article-menu">
+       <div class="trigger">
+        ⋯
+       </div>
+       <div class="dropdown">
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=thread%3A%5B%E8%B3%A3%2F%E6%96%B0%E5%8C%97%2F%E7%9A%86%E5%8F%AF%5D+B650e-i+%E5%B9%BB%E9%8B%92%E6%88%9F16G%2A2+itx%E6%A9%9F%E6%AE%BC+">
+          搜尋同標題文章
+         </a>
+        </div>
+        <div class="item">
+         <a href="/bbs/HardwareSale/search?q=author%3Aexdxboy">
+          搜尋看板內 exdxboy 的文章
+         </a>
+        </div>
+       </div>
+      </div>
+      <div class="date">
+       4/11
+      </div>
+      <div class="mark">
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-DZ6Y3BY9GW">
+  </script>
+  <script>
+   window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-DZ6Y3BY9GW');
+  </script>
+  <script>
+   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32365737-1', {
+    cookieDomain: 'ptt.cc',
+    legacyCookieDomain: 'ptt.cc'
+  });
+  ga('send', 'pageview');
+  </script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js">
+  </script>
+  <script src="//images.ptt.cc/bbs/v2.27/bbs.js">
+  </script>
+ </body>
+</html>
