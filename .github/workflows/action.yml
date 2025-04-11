@@ -1,1 +1,32 @@
+name: Git Hub Action
+run-name: Git Hub Action
 
+on:
+  schedule:
+    - cron: "00 10 * * *"
+  workflow_dispatch:
+
+jobs:
+  crawler-demo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Setup Python
+        uses: actions/setup-python@v4.5.0
+        with:
+          python-version: "3.10"
+      - name: Install Python Dependency
+        run: pip3 install requests
+      - name: Install Python lxml
+        run: pip3 install lxml
+      - name: Install Python bs4
+        run: pip3 install beautifulsoup4
+      - name: Run static.py  
+        run: python static.py
+      - name: Commit Data Back To GitHub Repo 
+        run: |
+          git config --global user.name "suouwang"
+          git config --global user.email "khaoswang1016@gmail.com"
+          git add . && git commit -m "daily crawl"
+          git push origin main
