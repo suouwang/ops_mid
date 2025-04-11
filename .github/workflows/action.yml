@@ -5,7 +5,8 @@ on:
   schedule:
     - cron: "00 10 * * *"
   workflow_dispatch:
-
+permissions:
+  contents: write
 jobs:
   crawler-demo:
     runs-on: ubuntu-latest
