@@ -25,12 +25,12 @@ jobs:
         run: pip3 install beautifulsoup4
       - name: Install Python cloudscraper
         run: pip3 install cloudscraper
+      - name: Install Python selenium
+        run: pip3 install selenium
       - name: Run static.py  
         run: python static.py
-      - name: Print file.json content
-        run: |
-          echo "File content:"
-          cat static.json
+      - name: Run api.py 
+        run: python api.py
       - name: Commit Data Back To GitHub Repo 
         run: |
           git config --global user.name "suouwang"
