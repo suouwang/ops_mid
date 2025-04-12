@@ -27,6 +27,6 @@ def readurl(url,jFile,count):
         if btn.text == '‹ 上頁':
             readurl('https://www.ptt.cc'+btn['href'],jFile,count+1)
 
-
+print('begin')
 with open('file.json', 'w', encoding="utf-8") as jFile:
         readurl("https://www.ptt.cc/bbs/HardwareSale/index.html", jFile, 0)
