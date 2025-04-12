@@ -27,6 +27,5 @@ def readurl(url,jFile,count):
             readurl('https://www.ptt.cc'+btn['href'],jFile,count+1)
 
 
-jFile = open('file.json','w',encoding="utf-8")
-count = 0
-readurl(url,jFile,count)
+with open('file.json', 'w', encoding="utf-8") as jFile:
+        readurl("https://www.ptt.cc/bbs/HardwareSale/index.html", jFile, 0)
