@@ -20,6 +20,7 @@ def readurl(url,jFile,count):
             if not(r.startswith('[公告]')):
                 json_ori = {'title':r,
                             'url':'https://www.ptt.cc'+a['href']}
+                print(json_ori)
                 json.dump(json_ori,jFile,indent=2,ensure_ascii=False)
     ##
     for btn in soup.find_all('a',class_="btn wide"):
