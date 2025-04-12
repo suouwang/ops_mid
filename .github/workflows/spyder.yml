@@ -30,7 +30,7 @@ jobs:
       - name: Print file.json content
         run: |
           echo "File content:"
-          cat file.json
+          cat static.json
       - name: Commit Data Back To GitHub Repo 
         run: |
           git config --global user.name "suouwang"
