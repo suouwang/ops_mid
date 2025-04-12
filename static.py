@@ -8,9 +8,10 @@ soup = BeautifulSoup(response.text,"lxml")
 #print(soup.prettify())
 
 def readurl(url,jFile,count):
-    print("Count: "+str(count+1))
+    #print("Count: "+str(count+1))
     if count == 3:
         return None
+    print(url)
     response = rq.get(url)
     soup = BeautifulSoup(response.text,"lxml")
     print(soup.prettify())
