@@ -23,6 +23,8 @@ jobs:
         run: pip3 install lxml
       - name: Install Python bs4
         run: pip3 install beautifulsoup4
+      - name: Install Python cloudscraper
+        run: pip3 install cloudscraper
       - name: Run static.py  
         run: python static.py
       - name: Print file.json content
