@@ -1,6 +1,6 @@
 import requests as rq
 from bs4 import BeautifulSoup
-import json
+import json,cloudscraper
 
 url = "https://www.ptt.cc/bbs/HardwareSale/index.html"
 response = rq.get(url)
@@ -8,13 +8,11 @@ soup = BeautifulSoup(response.text,"lxml")
 #print(soup.prettify())
 
 def readurl(url,jFile,count):
-    #print("Count: "+str(count+1))
     if count == 3:
         return None
-    print(url)
-    response = rq.get(url)
+    response = cloudscraper.create_scraper().get(url)
     soup = BeautifulSoup(response.text,"lxml")
-    print(soup.prettify())
+    #print(soup.prettify())
     for inf in soup.find_all("div",class_="title"):
         a = inf.find('a')
         if a != None:
