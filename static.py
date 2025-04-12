@@ -8,11 +8,12 @@ soup = BeautifulSoup(response.text,"lxml")
 #print(soup.prettify())
 
 def readurl(url,jFile,count):
+    print("Count: "+str(count+1))
     if count == 3:
         return None
     response = rq.get(url)
     soup = BeautifulSoup(response.text,"lxml")
-    #print(soup.prettify())
+    print(soup.prettify())
     for inf in soup.find_all("div",class_="title"):
         a = inf.find('a')
         if a != None:
