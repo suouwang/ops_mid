@@ -25,7 +25,8 @@ def readurl(url,jFile,count):
     for btn in soup.find_all('a',class_="btn wide"):
         if btn.text == '‹ 上頁':
             readurl('https://www.ptt.cc'+btn['href'],jFile,count+1)
-            
+
+
 jFile = open('file.json','w',encoding="utf-8")
 count = 0
 readurl(url,jFile,count)
