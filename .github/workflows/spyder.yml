@@ -30,4 +30,4 @@ jobs:
           git config --global user.name "suouwang"
           git config --global user.email "khaoswang1016@gmail.com"
           git add . && git commit -m "daily crawl"
-          git push origin main
+          git push main
