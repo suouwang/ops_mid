@@ -2,10 +2,14 @@ import requests as rq
 from bs4 import BeautifulSoup
 import json
 
+headers = {
+    'User-Agent': 'Mozilla/5.0 (compatible; GitHubActionsBot/1.0)'
+}
+
 def readurl(url, jFile, count):
     if count == 3:
         return
-    response = rq.get(url)
+    response = rq.get(url,headers=headers)
     soup = BeautifulSoup(response.text, "lxml")
     for inf in soup.find_all("div", class_="title"):
         a = inf.find('a')
