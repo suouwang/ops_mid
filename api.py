@@ -15,7 +15,7 @@ driver.get("https://www.coolpc.com.tw/evaluate.php")
 action = ActionChains(driver)
 time.sleep(0.1)
 action.move_by_offset(50, 50).click().perform()
-f = open('app.csv','w', newline = '',encoding='utf-8-sig')
+f = open('api.csv','w', newline = '',encoding='utf-8-sig')
 writer = csv.writer(f)
 
 def collector(driver,name,writer):
