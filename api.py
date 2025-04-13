@@ -8,6 +8,7 @@ import csv
 options = Options()
 options.add_argument('--headless')  # 無頭模式
 options.add_argument('--disable-gpu')
+options.add_argument('--no-sandbox')
 
 driver = webdriver.Edge(options=options)
 driver.implicitly_wait(2)
